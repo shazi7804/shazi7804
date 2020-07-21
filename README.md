@@ -4,8 +4,9 @@
 
 ## About ME
 
-- Solutions Architech, AWS
-- [Mr. 沙先生](https://shazi.info) Author
+Solutions Architech, AWS
+
+[Mr. 沙先生](https://shazi.info) Author
 
 ## My Digital Garden 🌱
 
