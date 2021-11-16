@@ -1,6 +1,6 @@
 ## About ME
 
-Solutions Architech, AWS
+Solutions Architect, AWS
 
 [Mr. 沙先生](https://shazi.info) Author
 
