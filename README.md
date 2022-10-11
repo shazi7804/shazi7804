@@ -2,6 +2,8 @@
 
 Senior Solutions Architect, AWS
 
+Since 2020, member of the AWS Community HERO in Taiwan
+
 [Mr. 沙先生](https://shazi.info) Author
 
 ---
