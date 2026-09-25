@@ -1,6 +1,6 @@
 ## About ME
 
-Senior Solutions Architect, AWS
+Manager Solutions Architecture, AWS
 
 Since 2020, member of the AWS Community HERO in Taiwan
 
